@@ -55,6 +55,6 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 
 # References
 
-[^1]: [NINE Wang Shizhen and Li Shizhen: Archaism and Early Scientific Thought in Sixteenth-Century China] (https://www.jstor.org/stable/10.3998/mpub.3992087.14)
+[^1]: [NINE Wang Shizhen and Li Shizhen: Archaism and Early Scientific Thought in Sixteenth-Century China](https://www.jstor.org/stable/10.3998/mpub.3992087.14)
 [^2]: [Chinaknowledge.de:Bencao gangmu 本草綱目](http://www.chinaknowledge.de/Literature/Science/bencaogangmu.html)
 [^3]: [Retrospectmagazine: Bencao Gangmu](https://retrospectmagazinehca.files.wordpress.com/2021/04/kj2.jpeg?w=1024&h=580&crop=1)
