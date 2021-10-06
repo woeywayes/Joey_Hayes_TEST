@@ -13,9 +13,9 @@
 <param ve-entity eid=""> <!--  -->
 <param ve-entity eid=""> <!--  -->
 
-# Li Shinzhen
+# Li Shizhen and Bencao Gangmu
 
-This visual essay will discuss Shizhen's approach to abtaining the information that was placed in the Bencao Gangmu, its impact on Chinese medicine, and its effects on globalization of medicine and medicinal knowledge.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
+This visual essay will discuss Shizhen's approach to abtaining the information that was placed in the Bencao Gangmu, its impact on Chinese medicine, and its effects on globalization of medicine and medicinal knowledge.  
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
@@ -23,7 +23,7 @@ This visual essay will discuss Shizhen's approach to abtaining the information t
 
 ## Image
 
-_ Li Shizhen_ (1518-1593) was born in Qizhou, Hunguang. His family had practiced medicine for the past two generations. In 1531, he passed the first level of examinations, but failed three times in a row to pass the second level. Giving up hope, he became a skilled healer with a reputation and served the Prince of Chu, a local branch of the imperial family.[^1] 
+_Li Shizhen_ (1518-1593) was born in Qizhou, Hunguang. His family had practiced medicine for the past two generations. In 1531, he passed the first level of examinations, but failed three times in a row to pass the second level. Giving up hope, he became a skilled healer with a reputation and served the Prince of Chu, a local branch of the imperial family.[^1] 
 <param ve-image 
        label="Li Shizhen" 
        description="Photo of Li Shizhen" 
