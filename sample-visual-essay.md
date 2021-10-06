@@ -15,15 +15,26 @@
 
 # Li Shinzhen
 
-This is a visual essay informing the aud.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
+This visual essay will discuss Shizhen's approach to abtaining the information that was placed in the Bencao Gangmu, its impact on Chinese medicine, and its effects on globalization of medicine and medicinal knowledge.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
-# Basic usage
+# Li Shizhen 
 
 ## Image
 
-_Bencao Gangmu_ (English: Compendium of  Materia Medica) is a phamacopeia of Chinese medicinal knowledge, written by Li Shizhen (1518-1593) during the Ming Dynasty (1368-1644)[^1].  The phamacopeia also includes international materials brought to China via European trade.[^2]
+_ Li Shizhen_ (1518-1593) was born in Qizhou, Hunguang. His family had practiced medicine for the past two generations. In 1531, he passed the first level of examinations, but failed three times in a row to pass the second level. Giving up hope, he became a skilled healer with a reputation and served the Prince of Chu, a local branch of the imperial family.[^1] 
+<param ve-image 
+       label="Li Shizhen" 
+       description="Photo of Li Shizhen" 
+       license="public domain" 
+       url="http://en.hubei.gov.cn/culture/highlights/201512/W020151215617659546186.jpg">
+
+# Bencao Gangmu
+
+## Image
+
+_Bencao Gangmu_ (English: Compendium of  Materia Medica) is a phamacopeia of Chinese medicinal knowledge, written by Li Shizhen (1518-1593) during the Ming Dynasty (1368-1644)[^2].  The phamacopeia also includes international materials brought to China via European trade.[^3]
 <param ve-image 
        label="Bencao Gangmu" 
        description="Pages in the pharmacopeia: Bencao Gangmu" 
@@ -44,5 +55,6 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 
 # References
 
-[^1]: [Chinaknowledge.de:Bencao gangmu 本草綱目](http://www.chinaknowledge.de/Literature/Science/bencaogangmu.html)
-[^2]: [Retrospectmagazine: Bencao Gangmu](https://retrospectmagazinehca.files.wordpress.com/2021/04/kj2.jpeg?w=1024&h=580&crop=1)
+[^1]: [NINE Wang Shizhen and Li Shizhen: Archaism and Early Scientific Thought in Sixteenth-Century China] (https://www.jstor.org/stable/10.3998/mpub.3992087.14)
+[^2]: [Chinaknowledge.de:Bencao gangmu 本草綱目](http://www.chinaknowledge.de/Literature/Science/bencaogangmu.html)
+[^3]: [Retrospectmagazine: Bencao Gangmu](https://retrospectmagazinehca.files.wordpress.com/2021/04/kj2.jpeg?w=1024&h=580&crop=1)
