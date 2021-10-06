@@ -11,8 +11,8 @@
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q698925"> <!-- Li Shizhen -->
 <param ve-entity eid="Q816658"> <!-- Bencao Gangmu -->
-<param ve-entity eid=""> <!--  -->
-<param ve-entity eid=""> <!--  -->
+<param ve-entity eid="Q9903"> <!-- Ming Dynasty  -->
+<param ve-entity eid="Q29520"> <!-- China -->
 
 # Li Shizhen and Bencao Gangmu
 
@@ -21,8 +21,6 @@ This visual essay will discuss Li Shizhen 's approach to abtaining the informati
        region="27,26,346,327" url="https://archive.shine.cn/newsimage//NewsImage/2011/2011-07/2011-07-03/20110703_476008_01.jpg">
 
 # Li Shizhen 
-
-## Image
 
 _Li Shizhen_ (1518-1593) was born in Qizhou, Hunguang. His family had practiced medicine for the past two generations. In 1531, he passed the first level of examinations, but failed three times in a row to pass the second level. Giving up hope, he became a skilled healer with a reputation and served the Prince of Chu, a local branch of the imperial family.[^1] 
 <param ve-image 
@@ -33,8 +31,6 @@ _Li Shizhen_ (1518-1593) was born in Qizhou, Hunguang. His family had practiced 
 
 # Bencao Gangmu
 
-## Image
-
 _Bencao Gangmu_ (English: Compendium of  Materia Medica) is a phamacopeia of Chinese medicinal knowledge, written by Li Shizhen (1518-1593) during the Ming Dynasty (1368-1644)[^2].  The phamacopeia also includes international materials brought to China via European trade.[^3]
 <param ve-image 
        label="Bencao Gangmu" 
@@ -42,10 +38,9 @@ _Bencao Gangmu_ (English: Compendium of  Materia Medica) is a phamacopeia of Chi
        license="public domain" 
        url="https://retrospectmagazinehca.files.wordpress.com/2021/04/kj2.jpeg?w=1024&h=580&crop=1">
 
-## Map
-
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+## Ming Dynasty China
+_The Ming dynasty_ (/mɪŋ/), officially the Great Ming, was the ruling dynasty of China from 1368 to 1644 following the collapse of the Mongol-led Yuan dynasty. The Ming dynasty was the last imperial dynasty of China ruled by Han Chinese. Although the primary capital of Beijing fell in 1644 to a rebellion led by Li Zicheng (who established the Shun dynasty, soon replaced by the Manchu-led Qing dynasty), numerous rump regimes ruled by remnants of the Ming imperial family—collectively called the Southern Ming—survived until 1662.[^4]
+<param ve-map center="Q9903" zoom="6" prefer-geojson>
 
 ## Multiple viewers
 
@@ -59,3 +54,4 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 [^1]: [NINE Wang Shizhen and Li Shizhen: Archaism and Early Scientific Thought in Sixteenth-Century China](https://www.jstor.org/stable/10.3998/mpub.3992087.14)
 [^2]: [Chinaknowledge.de:Bencao gangmu 本草綱目](http://www.chinaknowledge.de/Literature/Science/bencaogangmu.html)
 [^3]: [Retrospectmagazine: Bencao Gangmu](https://retrospectmagazinehca.files.wordpress.com/2021/04/kj2.jpeg?w=1024&h=580&crop=1)
+[4^]: [Wikipedia: Ming Dynasty] (https://en.wikipedia.org/wiki/Ming_dynasty)
