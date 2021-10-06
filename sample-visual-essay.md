@@ -2,20 +2,21 @@
 
 <param ve-config 
        title="Li Shizhen and Bencao Gangmu" 
+       auhtor="Joey Hayes"
        banner="https://upload.wikimedia.org/wikipedia/commons/d/d9/Li_Shizhen.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q45612304"> <!-- Li Shizhen -->
+<param ve-entity eid="Q698925"> <!-- Li Shizhen -->
 <param ve-entity eid="Q816658"> <!-- Bencao Gangmu -->
 <param ve-entity eid=""> <!--  -->
 <param ve-entity eid=""> <!--  -->
 
 # Li Shizhen and Bencao Gangmu
 
-This visual essay will discuss Shizhen's approach to abtaining the information that was placed in the Bencao Gangmu, its impact on Chinese medicine, and its effects on globalization of medicine and medicinal knowledge.  
+This visual essay will discuss Li Shizhen's approach to abtaining the information that was placed in the Bencao Gangmu, its impact on Chinese medicine, and its effects on globalization of medicine and medicinal knowledge.  
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
