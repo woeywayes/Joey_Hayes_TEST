@@ -11,14 +11,13 @@
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q698925"> <!-- Li Shizhen -->
 <param ve-entity eid="Q816658"> <!-- Bencao Gangmu -->
-<param ve-entity eid="Q9903"> <!-- Ming Dynasty  -->
-<param ve-entity eid="Q29520"> <!-- China -->
+
 
 # Li Shizhen and Bencao Gangmu
 
 This visual essay will discuss Li Shizhen 's approach to abtaining the information that was placed in the Bencao Gangmu, its impact on Chinese medicine, and its effects on globalization of medicine and medicinal knowledge.  
 <param ve-image 
-       region="27,26,346,327" url="https://archive.shine.cn/newsimage//NewsImage/2011/2011-07/2011-07-03/20110703_476008_01.jpg">
+       region="1,26,422,329" url="https://archive.shine.cn/newsimage//NewsImage/2011/2011-07/2011-07-03/20110703_476008_01.jpg">
 
 # Li Shizhen 
 
@@ -31,7 +30,7 @@ _Li Shizhen_ (1518-1593) was born in Qizhou, Hunguang. His family had practiced 
 
 # Bencao Gangmu
 
-_Bencao Gangmu_ (English: Compendium of  Materia Medica) is a phamacopeia of Chinese medicinal knowledge, written by Li Shizhen (1518-1593) during the Ming Dynasty (1368-1644)[^2].  The phamacopeia also includes international materials brought to China via European trade.[^3]
+_Bencao Gangmu_ (English: Compendium of  Materia Medica) is a phamacopeia of Chinese medicinal knowledge, written by Li Shizhen (1518-1593) during the Ming Dynasty (1368-1644).[^2]  The phamacopeia also includes international materials brought to China via European trade.[^3]
 <param ve-image 
        label="Bencao Gangmu" 
        description="Pages in the pharmacopeia: Bencao Gangmu" 
@@ -39,8 +38,10 @@ _Bencao Gangmu_ (English: Compendium of  Materia Medica) is a phamacopeia of Chi
        url="https://retrospectmagazinehca.files.wordpress.com/2021/04/kj2.jpeg?w=1024&h=580&crop=1">
 
 ## Ming Dynasty China
-_The Ming dynasty_ (/mɪŋ/), officially the Great Ming, was the ruling dynasty of China from 1368 to 1644 following the collapse of the Mongol-led Yuan dynasty. The Ming dynasty was the last imperial dynasty of China ruled by Han Chinese. Although the primary capital of Beijing fell in 1644 to a rebellion led by Li Zicheng (who established the Shun dynasty, soon replaced by the Manchu-led Qing dynasty), numerous rump regimes ruled by remnants of the Ming imperial family—collectively called the Southern Ming—survived until 1662.[^4]
-<param ve-map center="Q9903" zoom="6" prefer-geojson>
+The _Ming dynasty_ (/mɪŋ/), officially the Great Ming, was the ruling dynasty of China from 1368 to 1644 following the collapse of the Mongol-led Yuan dynasty. The Ming dynasty was the last imperial dynasty of China ruled by Han Chinese. Although the primary capital of Beijing fell in 1644 to a rebellion led by Li Zicheng (who established the Shun dynasty, soon replaced by the Manchu-led Qing dynasty), numerous rump regimes ruled by remnants of the Ming imperial family—collectively called the Southern Ming—survived until 1662.[^4]
+<param ve-map center="Q29520" zoom="4" prefer-geojson>
+<param ve-entity eid="Q9903"> <!-- Ming Dynasty  -->
+<param ve-entity eid="Q29520"> <!-- China -->
 
 ## Multiple viewers
 
