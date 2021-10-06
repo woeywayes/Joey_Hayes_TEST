@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Li Shizhen and Bencao Gangmu" 
-       auhtor="Joey Hayes"
+       author="Joey Hayes"
        banner="https://upload.wikimedia.org/wikipedia/commons/d/d9/Li_Shizhen.jpg" 
        layout="vertical">
 
