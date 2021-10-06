@@ -18,7 +18,7 @@
 
 This visual essay will discuss Li Shizhen 's approach to abtaining the information that was placed in the Bencao Gangmu, its impact on Chinese medicine, and its effects on globalization of medicine and medicinal knowledge.  
 <param ve-image 
-       manifest="https://archive.shine.cn/newsimage//NewsImage/2011/2011-07/2011-07-03/20110703_476008_01.jpg">
+       url="https://archive.shine.cn/newsimage//NewsImage/2011/2011-07/2011-07-03/20110703_476008_01.jpg">
 
 # Li Shizhen 
 
