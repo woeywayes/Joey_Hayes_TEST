@@ -40,7 +40,7 @@ _Bencao Gangmu_ (English: Compendium of  Materia Medica) is a phamacopeia of Chi
        url="https://retrospectmagazinehca.files.wordpress.com/2021/04/kj2.jpeg?w=1024&h=580&crop=1">
 
 ## Ming Dynasty China
-The _Ming dynasty_ (/mɪŋ/), officially the Great Ming, was the ruling dynasty of China from 1368 to 1644 following the collapse of the Mongol-led Yuan dynasty. The Ming dynasty was the last imperial dynasty of China ruled by Han Chinese. Although the primary capital of Beijing fell in 1644 to a rebellion led by Li Zicheng (who established the Shun dynasty, soon replaced by the Manchu-led Qing dynasty), numerous rump regimes ruled by remnants of the Ming imperial family—collectively called the Southern Ming—survived until 1662. [^4]
+The _Ming dynasty_ (/mɪŋ/), officially the Great Ming, was the ruling dynasty of China from 1368 to 1644 following the collapse of the Mongol-led Yuan dynasty. The Ming dynasty was the last imperial dynasty of China ruled by Han Chinese. Although the primary capital of Beijing fell in 1644 to a rebellion led by Li Zicheng (who established the Shun dynasty, soon replaced by the Manchu-led Qing dynasty), numerous rump regimes ruled by remnants of the Ming imperial family—collectively called the Southern Ming—survived until 1662.[^4]
 <param ve-map center="Q29520" zoom="4" prefer-geojson>
 <param ve-entity eid="Q29520"> <!-- China -->
 
@@ -56,4 +56,4 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 [^1]: [NINE Wang Shizhen and Li Shizhen: Archaism and Early Scientific Thought in Sixteenth-Century China](https://www.jstor.org/stable/10.3998/mpub.3992087.14)
 [^2]: [Chinaknowledge.de:Bencao gangmu 本草綱目](http://www.chinaknowledge.de/Literature/Science/bencaogangmu.html)
 [^3]: [Retrospectmagazine: Bencao Gangmu](https://retrospectmagazinehca.files.wordpress.com/2021/04/kj2.jpeg?w=1024&h=580&crop=1)
-[^4]: [Wikipedia: Ming Dynasty] (https://en.wikipedia.org/wiki/Ming_dynasty)
+[^4]: [Wikipedia: Ming Dynasty](https://en.wikipedia.org/wiki/Ming_dynasty)
