@@ -42,15 +42,14 @@ _Bencao Gangmu_ (English: Compendium of  Materia Medica) is a phamacopeia of Chi
 ## Ming Dynasty China
 The _Ming dynasty_ (/mɪŋ/), officially the Great Ming, was the ruling dynasty of China from 1368 to 1644 following the collapse of the Mongol-led Yuan dynasty. The Ming dynasty was the last imperial dynasty of China ruled by Han Chinese. Although the primary capital of Beijing fell in 1644 to a rebellion led by Li Zicheng (who established the Shun dynasty, soon replaced by the Manchu-led Qing dynasty), numerous rump regimes ruled by remnants of the Ming imperial family—collectively called the Southern Ming—survived until 1662. [^4]
 <param ve-map center="Q29520" zoom="4" prefer-geojson>
-<param ve-entity eid="Q9903"> <!-- Ming Dynasty  -->
 <param ve-entity eid="Q29520"> <!-- China -->
 
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+       
+<param ve-entity eid="Q9903"> <!-- Ming Dynasty  -->
 
 # References
 
