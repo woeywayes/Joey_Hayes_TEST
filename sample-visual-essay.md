@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Li Shizhen and _Bencao gangmu_" 
+       title="Li Shizhen and his Bencao gangmu" 
        author="Joey Hayes"
        banner="https://upload.wikimedia.org/wikipedia/commons/d/d9/Li_Shizhen.jpg" 
        layout="vertical">
@@ -13,7 +13,7 @@
 <param ve-entity eid=""> <!--  -->
 
 
-# Li Shizhen and Bencao Gangmu
+# 
 
 This visual essay will discuss Li Shizhen's approach to abtaining the information that was placed in the Bencao Gangmu, its impact on Chinese medicine, and its effects on globalization of medicine and medicinal knowledge.  
 <param ve-image 
@@ -45,6 +45,7 @@ Li, born in Qizhou, Huguang (modern-day Qichun, Huanggang, Hubei) eventually mov
 <param ve-map center="" zoom="4" prefer-geojson>
 
 <param ve-map-layer 
+       url="http://geojson.io/#map=5/34.071/116.060"
 
 <param ve-entity eid="Q10513920"> <!-- Qizhou, Huguang -->
 <param ve-entity eid="Q1014420"> <!-- Wuchang -->
