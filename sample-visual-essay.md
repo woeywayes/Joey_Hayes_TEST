@@ -40,7 +40,7 @@ _Bencao Gangmu_ (English: Compendium of  Materia Medica) is a phamacopeia of Chi
        url="https://retrospectmagazinehca.files.wordpress.com/2021/04/kj2.jpeg?w=1024&h=580&crop=1">
 
 ## Li's Travels 
-Li, born in Qizhou, Huguang (modern-day Qichun, Huanggang, Hubei) eventually moved to the court of Zhu Yingxian[g] [^2],Prince Chu, the local branch of the imperial family. [^1] Around 1550, Li was appointed to superintendent of sacrifices at Zhu's court in Wuchang. [^1] Soon afer, he was promoted to the Imperial Medical Academy in the capital, Beijing. Frustrated with the current texts of medical knowledge, he later moved back to his hometown, where he began to work on his bencao. 
+Li, born in Qizhou, Huguang (modern-day Qichun, Huanggang, Hubei) eventually moved to the court of Zhu Yingxian[g] [^2],Prince Chu, the local branch of the imperial family. [^1] Around 1550, Li was appointed to superintendent of sacrifices at Zhu's court in Wuchang . [^1] Soon afer, he was promoted to the Imperial Medical Academy in the capital, Beijing . Frustrated with the current texts of medical knowledge, he later moved back to his hometown, where he began to work on his bencao. 
 
 <param ve-map center="" zoom="4" prefer-geojson>
 
@@ -50,7 +50,7 @@ Li, born in Qizhou, Huguang (modern-day Qichun, Huanggang, Hubei) eventually mov
 <param ve-entity eid="Q10513920"> <!-- Qizhou, Huguang -->
 <param ve-entity eid="Q1014420"> <!-- Wuchang -->
 <param ve-entity eid="Q956"> <!-- Beijing -->
-<param ve-entity eid="Q45634650"> <!-- Zhu Yingxian[g] -->
+<param ve-entity eid="Q45634650"> <!-- Zhu Yingxian -->
 
 ## Multiple viewers
 
