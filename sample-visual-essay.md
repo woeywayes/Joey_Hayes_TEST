@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Li Shizhen and Bencao Gangmu" 
+       title="Li Shizhen and _Bencao gangmu_" 
        author="Joey Hayes"
        banner="https://upload.wikimedia.org/wikipedia/commons/d/d9/Li_Shizhen.jpg" 
        layout="vertical">
@@ -17,7 +17,8 @@
 
 This visual essay will discuss Li Shizhen's approach to abtaining the information that was placed in the Bencao Gangmu, its impact on Chinese medicine, and its effects on globalization of medicine and medicinal knowledge.  
 <param ve-image 
-       region="1,26,422,329" url="https://archive.shine.cn/newsimage//NewsImage/2011/2011-07/2011-07-03/20110703_476008_01.jpg">
+       region="1,26,422,329" 
+       url="https://archive.shine.cn/newsimage//NewsImage/2011/2011-07/2011-07-03/20110703_476008_01.jpg">
 
 # Li Shizhen 
 
@@ -26,7 +27,6 @@ _Li Shizhen_ (1518-1593) was born in Qizhou, Hunguang. His family had practiced 
 <param ve-image 
        label="Li Shizhen" 
        description="Photo of Li Shizhen" 
-       license="public domain" 
        url="http://en.hubei.gov.cn/culture/highlights/201512/W020151215617659546186.jpg">
 
 # Bencao Gangmu
@@ -37,91 +37,14 @@ _Bencao Gangmu_ (English: Compendium of  Materia Medica) is a phamacopeia of Chi
 <param ve-image 
        label="Bencao Gangmu" 
        description="Pages in the pharmacopeia: Bencao Gangmu" 
-       license="public domain" 
        url="https://retrospectmagazinehca.files.wordpress.com/2021/04/kj2.jpeg?w=1024&h=580&crop=1">
 
 ## Li's Travels 
 Li, born in Qizhou, Huguang (modern-day Qichun, Huanggang, Hubei) eventually moved to the court of Zhu Yingxian[g] [^2],Prince Chu, the local branch of the imperial family. [^1] Around 1550, Li was appointed to superintendent of sacrifices at Zhu's court in Wuchang. [^1] Soon afer, he was promoted to the Imperial Medical Academy in the capital, Beijing. Frustrated with the current texts of medical knowledge, he later moved back to his hometown, where he began to work on his bencao. 
 
 <param ve-map center="" zoom="4" prefer-geojson>
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#bb00ff",
-        "marker-size": "medium",
-        "marker-symbol": "village",
-        "name ": "Qizhou, Huguang"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.5706787109375,
-          30.455776769374857
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#2b00ff",
-        "marker-size": "medium",
-        "marker-symbol": "town-hall",
-        "name": "Wichang"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          114.27429199218749,
-          30.585908257485578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ec09d2",
-        "marker-size": "medium",
-        "marker-symbol": "city",
-        "name": "Beijing"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.3946533203125,
-          39.905522539728544
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            115.53222656249999,
-            30.524413269923986
-          ],
-          [
-            114.2578125,
-            30.713503990354965
-          ],
-          [
-            116.3671875,
-            39.9434364619742
-          ],
-          [
-            115.53222656249999,
-            30.52618770946091
-          ]
-        ]
-      }
-    }
-  ]
-}
+
+<param ve-map-layer 
 
 <param ve-entity eid="Q10513920"> <!-- Qizhou, Huguang -->
 <param ve-entity eid="Q1014420"> <!-- Wuchang -->
