@@ -44,6 +44,84 @@ _Bencao Gangmu_ (English: Compendium of  Materia Medica) is a phamacopeia of Chi
 Li, born in Qizhou, Huguang (modern-day Qichun, Huanggang, Hubei) eventually moved to the court of Zhu Yingxian[g][2^],Prince Chu, the local branch of the imperial family.[1^] Around 1550, Li was appointed to superintendent of sacrifices at Zhu's court in Wuchang.[1^] Soon afer, he was promoted to the Imperial Medical Academy in the capital, Beijing. Frustrated with the current texts of medical knowledge, he later moved back to his hometown, where he began to work on his bencao. 
 
 <param ve-map center="" zoom="4" prefer-geojson>
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bb00ff",
+        "marker-size": "medium",
+        "marker-symbol": "village",
+        "name ": "Qizhou, Huguang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5706787109375,
+          30.455776769374857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "medium",
+        "marker-symbol": "town-hall",
+        "name": "Wichang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.27429199218749,
+          30.585908257485578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ec09d2",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "name": "Beijing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3946533203125,
+          39.905522539728544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.53222656249999,
+            30.524413269923986
+          ],
+          [
+            114.2578125,
+            30.713503990354965
+          ],
+          [
+            116.3671875,
+            39.9434364619742
+          ],
+          [
+            115.53222656249999,
+            30.52618770946091
+          ]
+        ]
+      }
+    }
+  ]
+}
 
 <param ve-entity eid="Q1199313"> <!-- Qizhou, Huguang -->
 <param ve-entity eid="Q1014420"> <!-- Wuchang -->
