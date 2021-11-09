@@ -16,6 +16,7 @@
 # 
 
 This visual essay will discuss Li Shizhen's approach to abtaining the information that was placed in the Bencao Gangmu, its impact on Chinese medicine, and its effects on globalization of medicine and medicinal knowledge.  
+
 <param ve-image 
        region="1,26,422,329" 
        url="https://archive.shine.cn/newsimage//NewsImage/2011/2011-07/2011-07-03/20110703_476008_01.jpg">
@@ -27,17 +28,18 @@ _Li Shizhen_ (1518-1593) was born in Qizhou, Hunguang. His family had practiced 
 <param ve-image 
        label="Li Shizhen" 
        description="Photo of Li Shizhen" 
-       url="http://en.hubei.gov.cn/culture/highlights/201512/W020151215617659546186.jpg">
+       url="https://img.theepochtimes.com/assets/uploads/2015/07/LiShizhen_medium-350x420.jpg">
 
 # Bencao Gangmu
 
 _Bencao Gangmu_ (English: Compendium of  Materia Medica) is a phamacopeia of Chinese medicinal knowledge, written by Li during the Ming Dynasty. [^2]  Li's bencao took over 30 years to write and was published in 1596, three years after his death. The pharmacopeia contains 1,892 entries: 1,094 botanicals, 444 zoolgical items, 275 minerals, and 79 miscellaneous items. [^1]  The pharmacopeia also includes international materials brought to China via European trade, including grapes, carrots, pumpkins, yams, Panax pseudo-ginseng, yasmin, tulips, and camphor. [^1]
+
 <param ve-entity eid="Q816658"> <!-- Bencao Gangmu -->
 
 <param ve-image 
        label="Bencao Gangmu" 
        description="Pages in the pharmacopeia: Bencao Gangmu" 
-       url="https://retrospectmagazinehca.files.wordpress.com/2021/04/kj2.jpeg?w=1024&h=580&crop=1">
+       url="https://upload.wikimedia.org/wikipedia/commons/3/31/Bencao_Gangmu_33-36.jpg">
 
 ## Li's Travels 
 Li, born in Qizhou, Huguang (modern-day Qichun, Huanggang, Hubei) eventually moved to the court of Zhu Yingxian[g] [^2],Prince Chu, the local branch of the imperial family. [^1] Around 1550, Li was appointed to superintendent of sacrifices at Zhu's court in Wuchang. [^1] Soon afer, he was promoted to the Imperial Medical Academy in the capital, Beijing. Frustrated with the current texts of medical knowledge, he later moved back to his hometown, where he began to work on his bencao. 
